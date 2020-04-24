@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">P01-DailyGoals</string>
+    <string name="q1">Read up on materials before class</string>
+    <string name="q11">Did I achieve this goal today?</string>
+    <string name="q2">Arrive on time so as not to miss important part of the lesson</string>
+    <string name="q22">Did I achieve this goal today?</string>
+    <string name="q3">Attempt the problem myself</string>
+    <string name="q33">Did I achieve this goal today?</string>
+    <string name="q4">My personal reflection today</string>
+</resources>
